@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e884c07.chunk.css",
-    "main.js": "/static/js/main.c78340c3.chunk.js",
-    "main.js.map": "/static/js/main.c78340c3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5f00d85c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5f00d85c.js.map",
-    "static/js/2.94955f0a.chunk.js": "/static/js/2.94955f0a.chunk.js",
-    "static/js/2.94955f0a.chunk.js.map": "/static/js/2.94955f0a.chunk.js.map",
-    "static/js/3.6315054f.chunk.js": "/static/js/3.6315054f.chunk.js",
-    "static/js/3.6315054f.chunk.js.map": "/static/js/3.6315054f.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.9e884c07.chunk.css.map": "/static/css/main.9e884c07.chunk.css.map",
-    "static/js/2.94955f0a.chunk.js.LICENSE.txt": "/static/js/2.94955f0a.chunk.js.LICENSE.txt"
+    "main.css": "/react-gallery-app/static/css/main.9e884c07.chunk.css",
+    "main.js": "/react-gallery-app/static/js/main.04f973b9.chunk.js",
+    "main.js.map": "/react-gallery-app/static/js/main.04f973b9.chunk.js.map",
+    "runtime-main.js": "/react-gallery-app/static/js/runtime-main.1a244735.js",
+    "runtime-main.js.map": "/react-gallery-app/static/js/runtime-main.1a244735.js.map",
+    "static/js/2.94955f0a.chunk.js": "/react-gallery-app/static/js/2.94955f0a.chunk.js",
+    "static/js/2.94955f0a.chunk.js.map": "/react-gallery-app/static/js/2.94955f0a.chunk.js.map",
+    "static/js/3.6315054f.chunk.js": "/react-gallery-app/static/js/3.6315054f.chunk.js",
+    "static/js/3.6315054f.chunk.js.map": "/react-gallery-app/static/js/3.6315054f.chunk.js.map",
+    "index.html": "/react-gallery-app/index.html",
+    "service-worker.js": "/react-gallery-app/service-worker.js",
+    "service-worker.js.map": "/react-gallery-app/service-worker.js.map",
+    "static/css/main.9e884c07.chunk.css.map": "/react-gallery-app/static/css/main.9e884c07.chunk.css.map",
+    "static/js/2.94955f0a.chunk.js.LICENSE.txt": "/react-gallery-app/static/js/2.94955f0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f00d85c.js",
+    "static/js/runtime-main.1a244735.js",
     "static/js/2.94955f0a.chunk.js",
     "static/css/main.9e884c07.chunk.css",
-    "static/js/main.c78340c3.chunk.js"
+    "static/js/main.04f973b9.chunk.js"
   ]
 }
