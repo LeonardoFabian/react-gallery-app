@@ -1,6 +1,7 @@
 {
   "short_name": "React Gallery",
   "name": "React Gallery App",
+  "description": "Aplicación de galería de imagenes para uso comercial",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +9,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "pwa-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "pwa-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
